@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default2.aspx](./CS/WebSite/Default2.aspx) (VB: [Default2.aspx](./VB/WebSite/Default2.aspx))
+* [Menu.xml](./CS/WebSite/Menu.xml) (VB: [Menu.xml](./VB/WebSite/Menu.xml))
+<!-- default file list end -->
 # How to clear the NavigationUrl property if ASPxMenu is bound with a data source
 
 
