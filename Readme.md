@@ -7,6 +7,9 @@
 * [Menu.xml](./CS/WebSite/Menu.xml) (VB: [Menu.xml](./VB/WebSite/Menu.xml))
 <!-- default file list end -->
 # How to clear the NavigationUrl property if ASPxMenu is bound with a data source
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3905/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to clear the <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxMenuMenuItem_NavigateUrltopic"><u>MenuItem.NavigateUrl</u></a> property to prevent redirecting to another page on tablet device browsers. ASPxMenu is bound with a data source.</p><p><strong>See also:</strong><br />
